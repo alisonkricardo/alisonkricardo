@@ -1,58 +1,52 @@
-# Hi, I'm Alison 👾✨
+# Hi, I'm Alison ⚛️
 
-🎮 **Game Developer** & **Aspiring Technical Artist** — I build games, study the maths behind real-time graphics, and spend way too much time making things look beautiful.
+**Computer Science student** with a focus on **quantitative research, mathematical rigor, and computational finance** 
 
 ---
 
 ## What I'm about
 
-- 🧠 Studying **Physics & Applied Mathematics** @ Open University
-  - Coming up: Quantum Physics · Computational Applied Mathematics
-- 🎮 Building games in **Godot 4** — currently working on a space-themed games
-- 🖥️ Learning **Blender**, **Unity**, and diving into **GLSL shader programming**
-- ⚛️ Background in **quantum computing** (Qiskit) and **generative ML** (PyTorch, Hugging Face)
-- 🌏 Studying **Mandarin Chinese** 
-- 🎯 Working toward roles in **technical art**, **graphics programming**, and **software engineering**
+- 🧠 Studying **Computer Science (Open Degree)** @ Open University
+  - Upcoming courses: Quantum Physics: Fundamentals and Applications · Computational Applied Mathematics
+- 📊 Building a portfolio of **quantitative research and systems projects** — from statistical arbitrage research to a C++ limit order book simulator
+- ⚛️ Background in **quantum computing** (Qiskit) — implementing algorithms from mathematical first principles, not tutorials
+- 🎯 Working toward roles in **quantitative trading, quant research, and software engineering**
+- 🖥️ Also maintain a graphics/systems programming background (C++ ray tracer, shader math) — I like building things from first principles wherever the math takes me!
 
 ---
 
 ## Currently building
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🚀 Space Match | Competitive memory match tile game | Godot 4 · GDScript |
-| 🔭 Shader Studies | GLSL experiments from The Book of Shaders | GLSL · Shadertoy |
-| ⚛️ Quantum Computing | Superposition, entanglement, Bell states | Python · Qiskit |
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| ⚛️ Quantum Computing Fundamentals | Superposition, entanglement, Bell states, Deutsch–Jozsa, QRNG verified across 600 measurement shots | Python · Qiskit · Qiskit Aer | ✅ Ongoing |
+| 📈 Statistical Arbitrage Research | Cointegration testing, mean-reversion strategy, walk-forward validated backtest | Python · pandas · statsmodels | 🚧 In progress |
+| 📉 Limit Order Book Simulator | Price-time priority matching engine + basic market-making strategy | C++ | 🚧 In progress |
+| 🔭 Ray Tracer | Physically-based renderer built from mathematical first principles | C++ | 🚧 In progress |
 
 ---
 
 ## Tech I work with
 
-**Game Dev**
-`Godot 4` `GDScript` `Unreal Engine 5` `Unity` `itch.io`
+**Quant / Math**
+`Python` `pandas` `NumPy` `statsmodels` `Probability & Statistics` `Linear Algebra`
 
-**Graphics & Shaders**
-`GLSL` `HLSL` `Shadertoy` `PBR` `Real-time rendering`
+**Quantum**
+`Qiskit` `Qiskit Aer` `IBM Quantum`
 
-**3D Art & Technical Art**
-`Blender` `Houdini` `Substance 3D Painter` `ZBrush`
+**Systems / Low-Latency**
+`C++` `Data Structures & Algorithms`
 
-**Languages**
-`Python` `JavaScript` `HTML/CSS` `Java` `C++`
-
-**ML & Quantum**
-`PyTorch` `Hugging Face` `Qiskit` `Scikit-learn`
-
-**Tools**
-`Git` `VS Code` `Jupyter` `Figma`
+**Also**
+`GLSL` `Godot 4` `JavaScript` `Git`
 
 ---
 
 ## Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisonkricardo/)
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/alsn06213/profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-USERNAME)
 
 ---
 
-*Currently open to junior roles in software engineering, game development, technical art, and data science — remote or anywhere in the UK* 🇬🇧
+*Open to internships and junior roles in quantitative trading, quant research, and software engineering — UK-based, open to relocation*
