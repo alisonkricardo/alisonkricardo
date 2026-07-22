@@ -1,6 +1,6 @@
 # Hi, I'm Alison ⚛️
 
-**Computer Science student** with a focus on **quantitative research, C++, and algorithmic problem-solving** 
+**Computer Science student** with a focus on **quantitative research, C++, python, and algorithmic problem-solving** 
 
 ---
 
