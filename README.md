@@ -18,7 +18,7 @@
 
 ## 🚀 What I'm building
 
-**[Limit Order Book Simulator](https://github.com/alisonkricardo/order-book-simulator)** — a C++ matching engine implementing price-time priority order matching and partial fill handling, with a basic market-making strategy layered on top using inventory-risk-based quote skewing.
+**[Limit Order Book Simulator](https://github.com/alisonkricardo/order-book-stimulator)** — a C++ matching engine implementing price-time priority order matching and partial fill handling, with a basic market-making strategy layered on top using inventory-risk-based quote skewing.
 `C++` `Data Structures & Algorithms`
 
 ## 📌 Currently building
