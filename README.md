@@ -1,7 +1,6 @@
 # Hi, I'm Alison ⚛️
 
-**Computer Science student** with a focus on **quantitative research, C++, Python, and algorithmic problem-solving** — I like problems where the math has to be exactly right, not just close enough.
-
+**Computer Science student** with a focus on **quantitative research, C++, Python, and algorithmic problem-solving** 
 📍 Based in West Sussex, UK  |  🌍 Open to relocation — UK, US, Europe
 
 ---
