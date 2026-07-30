@@ -52,4 +52,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisonkricardo/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisonkricardo)
 
-Currently applying for Summer 2027 quant research and software engineering nternships — always happy to chat about quantitative finance, probability, C++, or breaking into quant more generally.
+Currently applying for 2027 graduate roles — always happy to chat about quantitative finance, probability, C++, or breaking into quant more generally.
