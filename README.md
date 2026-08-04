@@ -14,14 +14,6 @@
 
 ---
 
-## 🚀 What I'm building
-
-**[SPY Direction Prediction — Market & Macro ML Model](https://github.com/alisonkricardo/spy-direction-walkforward)** — gradient-boosted classifier predicting next-day S&P 500 direction from price/volume features and VIX (macro/non-market data), validated with walk-forward cross-validation and backtested with transaction costs. Found a statistically significant directional edge (p=0.03) that still underperformed buy-and-hold after costs — a result about the gap between predictive accuracy and tradeable, risk-adjusted return.
-`Python` `scikit-learn` `pandas` `Walk-Forward Validation`
-
-**[Limit Order Book Simulator](https://github.com/alisonkricardo/order-book-stimulator)** — a C++ matching engine implementing price-time priority order matching and partial fill handling, with a basic market-making strategy layered on top using inventory-risk-based quote skewing.
-`C++` `Data Structures & Algorithms`
-
 ## 📌 Currently building
 
 | Project | What it is | Stack | Status |
