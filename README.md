@@ -7,7 +7,7 @@
 
 ## What I'm about
 - 🧠 Studying **Computer Science (Open Degree)** @ Open University
-  - Coming up: Software Engineering & Computational Applied Mathematics
+  - Coming up: Pure Mathematics, Applications of Probablity & Computational Applied Mathematics
 - 📊 Building a portfolio of **quantitative research and systems projects** — from a walk-forward-validated ML model on real market data to a C++ limit order book simulator
 - ⚛️ Independent background in **quantum computing** (Qiskit) — implemented core algorithms from mathematical first principles, not tutorials
 - 🎯 Working toward roles in **quantitative trading, quant research, and software engineering**
