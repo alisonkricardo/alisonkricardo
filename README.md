@@ -1,12 +1,12 @@
 # Hi, I'm Alison ⚛️
-**Computer Science student** with a focus on **quantitative research, C++, Python, and algorithmic problem-solving** 
+**Mathematics and Computer Science student** with a focus on **quantitative research, C++, Python, and algorithmic problem-solving** 
 
 📍 Based in West Sussex, UK  |  🌍 Open to relocation — UK, US, Europe
 
 ---
 
 ## What I'm about
-- 🧠 Studying **Computer Science (Open Degree)** @ Open University
+- 🧠 Studying **(Open Degree)** @ Open University
   - Coming up: Pure Mathematics, Applications of Probablity & Computational Applied Mathematics
 - 📊 Building a portfolio of **quantitative research and systems projects** — from a walk-forward-validated ML model on real market data to a C++ limit order book simulator
 - ⚛️ Independent background in **quantum computing** (Qiskit) — implemented core algorithms from mathematical first principles, not tutorials
